@@ -18,7 +18,7 @@ uses [React](https://reactjs.org/).
 
 ## Where can I get it?
 
-Download the official installer for your operating system:
+Test the official installer for your operating system:
 
  - [macOS](https://central.github.com/deployments/desktop/desktop/latest/darwin)
  - [macOS (Apple silicon)](https://central.github.com/deployments/desktop/desktop/latest/darwin-arm64)
